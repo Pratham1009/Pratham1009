@@ -39,6 +39,7 @@ I’m driven by a desire to contribute to cutting-edge technologies like **Gener
   <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
 </div>
+![Robot Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 # Certifications
